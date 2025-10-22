@@ -1,6 +1,7 @@
 {
   "name": "be-api",
   "version": "0.1.0",
+  "main": "src/server.js",
   "type": "module",
   "private": false,
   "scripts": {
